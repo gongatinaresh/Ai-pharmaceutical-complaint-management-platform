@@ -1,0 +1,12 @@
+Customer Name: ABC Pharma
+Product: Paracetamol Tablets
+Strength: 500 mg
+Batch Number: PCM240501
+Manufacturing Date: 2024-05-01
+Expiry Date: 2026-04-30
+Quantity Affected: 20
+
+Complaint Date: 2026-09-10
+
+The customer reported that several tablets were broken inside
+the blister pack. No adverse event was reported.
