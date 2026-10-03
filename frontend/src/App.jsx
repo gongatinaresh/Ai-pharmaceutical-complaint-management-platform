@@ -279,7 +279,7 @@ function App() {
       {/* HEADER */}
       <header className="header">
         <div>
-          <h1>AIVOA</h1>
+          <h1>Pharma Complaint AI</h1>
           <p>AI Complaint Management System</p>
         </div>
 
