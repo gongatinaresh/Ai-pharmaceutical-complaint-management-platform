@@ -6,7 +6,7 @@ The system converts unstructured complaint information from text, PDF, DOCX, TXT
 
 ## 🔗 Live Demo & Project Links
 
-- **Live Demo:** https://YOUR-LIVE-DEMO-LINK
+- **Live Demo:**  https://gongatinaresh.github.io/Ai-pharmaceutical-complaint-management-platform/
 - **GitHub Repository:** https://github.com/YOUR_USERNAME/YOUR_REPOSITORY
 - **Demo Video:** https://YOUR-DEMO-VIDEO-LINK
 ## 🚀 Project Overview
