@@ -8,7 +8,6 @@ The system converts unstructured complaint information from text, PDF, DOCX, TXT
 
 - **Live Demo:**  https://gongatinaresh.github.io/Ai-pharmaceutical-complaint-management-platform/
 - **GitHub Repository:** https://github.com/gongatinaresh/Ai-pharmaceutical-complaint-management-platform
-- **Demo Video:** https://YOUR-DEMO-VIDEO-LINK
 ## 🚀 Project Overview
 
 In pharmaceutical manufacturing, customer complaints may arrive through emails, documents, or unstructured text.
