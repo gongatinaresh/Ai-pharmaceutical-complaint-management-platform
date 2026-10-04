@@ -4,9 +4,6 @@ An AI-powered full-stack application for managing pharmaceutical customer compla
 
 The system converts unstructured complaint information from text, PDF, DOCX, TXT, and EML files into structured complaint records and assists users with complaint classification, completeness checking, AI-assisted risk assessment, summarization, and possible duplicate detection.
 
-> Developed as part of the AIVOA AI Product Engineer internship assignment.
-
----
 
 ## 🔗 Project Links
 
